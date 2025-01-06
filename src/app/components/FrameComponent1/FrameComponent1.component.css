@@ -1,0 +1,72 @@
+.mesa-de-trabajo-13-1 {
+  height: 69px;
+  width: 54px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.dresscode-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+}
+.vestimenta {
+  margin: 0;
+  font-size: inherit;
+  line-height: 23px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.para-esta-ocasin,
+.vestimenta {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.dresscode-description {
+  align-self: stretch;
+  height: 69px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-28xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+.dresscode-details,
+.dresscode-request {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.dresscode-request {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+}
+.dresscode-details {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-2xl);
+  max-width: 100%;
+}
+.dresscode-details-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) var(--padding-29xl) var(--padding-32xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-bela-yasmine);
+}

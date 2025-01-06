@@ -1,0 +1,113 @@
+.limachi-ortiz {
+  margin: 0;
+}
+.limachi-ortiz-durby-container {
+  align-self: stretch;
+  position: relative;
+}
+.imagen-de-whatsapp-2024-12-31 {
+  height: 176px;
+  width: 175px;
+  position: relative;
+  object-fit: cover;
+}
+.contact {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xl) 0 36px;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 7.5px;
+  flex-shrink: 0;
+}
+.pngwingcom-7-11 {
+  width: 198px;
+  height: 113px;
+  position: relative;
+  transform: rotate(-90deg);
+  flex-shrink: 0;
+}
+.details8,
+.logo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.logo {
+  height: 257.2px;
+  width: 113px;
+  flex-direction: column;
+  padding: 59.2px 0 0;
+}
+.details8 {
+  width: 321px;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+.close-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff9fa;
+  height: 48px;
+  width: 191px;
+  position: absolute;
+  margin: 0 !important;
+  top: -13px;
+  right: 108px;
+  border-radius: var(--br-xl);
+}
+.cerrar {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  text-shadow: 0.2px 0 0#79283b, 0 0.2px 0#79283b, -0.2px 0 0#79283b,
+    0-0.2px 0#79283b;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.actions,
+.root {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.actions {
+  margin-right: -26px;
+  width: 412px;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 115%;
+}
+.root {
+  width: 361px;
+  border-radius: 31px;
+  background-color: rgba(121, 40, 59, 0.95);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 50.8px 0 var(--padding-42xl);
+  box-sizing: border-box;
+  gap: 29px;
+  line-height: normal;
+  letter-spacing: normal;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-brown-100);
+  font-family: var(--font-throhandw01-inkitalic);
+}

@@ -1,0 +1,93 @@
+<section class="parents-details-parent">
+  <div class="parents-details">
+    <img
+      class="novios-03-1-icon"
+      loading="lazy"
+      alt=""
+      src="assets/novios03-1.svg"
+    />
+    <div class="parents-list">
+      <div class="parent-details">
+        <img
+          class="pngwingcom-7-6"
+          loading="lazy"
+          alt=""
+          src="assets/pngwingcom-7-7@2x.png"
+        />
+        <div class="parent-names">
+          <div class="padres-del-novio-parent">
+            <div class="padres-del-novio">Padres del Novio</div>
+            <div class="cristbal-calle-guanaco">Cristóbal Calle Guanaco</div>
+            <div class="julia-mamani-de">Julia Mamani de Calle</div>
+            <div class="padres-del-novio">Padres de la Novia</div>
+          </div>
+          <div class="julia-mamani-de">Placida Juana Ortiz Pabon</div>
+        </div>
+      </div>
+    </div>
+    <div class="y-en-compaia-de-nuestros-padr-parent">
+      <h2 class="y-en-compaia">Y en compañia de nuestros padrinos</h2>
+      <div class="padrinos-names">
+        <div class="padrinos-de-civil">Padrinos de Civil</div>
+        <div class="wilder-gutirrez-carrillo">Wilder Gutiérrez Carrillo</div>
+        <div class="malena-espejo-lima">Malena Espejo Lima</div>
+      </div>
+    </div>
+  </div>
+  <img
+    class="ceremonia-7-icon"
+    loading="lazy"
+    alt=""
+    src="assets/ceremonia-7.svg"
+  />
+  <div class="ceremony-details">
+    <div class="ceremony-location">
+      <div class="location-details">
+        <div class="hora-1330-pm-hotel-rey-pal-parent">
+          <div class="hora-1330-pm-container">
+            <p class="hora-1330-pm">Hora: 13:30 p.m.</p>
+            <p class="hora-1330-pm">Hotel Rey Palace</p>
+            <p class="hora-1330-pm">Sopocachi, Av 20 de octubre</p>
+            <p class="hora-1330-pm">y landaeta N° 1947</p>
+          </div>
+          <button class="location-map">
+            <encendido [property1]="'Default'"> </encendido>
+          </button>
+        </div>
+      </div>
+      <img
+        class="pngwingcom-7-5"
+        loading="lazy"
+        alt=""
+        src="assets/pngwingcom-7-5@2x.png"
+      />
+    </div>
+    <div class="regalo-1-wrapper">
+      <img
+        class="regalo-1-icon"
+        loading="lazy"
+        alt=""
+        src="assets/regalo-1.svg"
+      />
+    </div>
+  </div>
+  <h2 class="regalos">Regalos</h2>
+  <div class="para-nosotros-su">
+    Para nosotros, su presencia en este día tan especial es el mayor regalo que
+    podemos recibir. Sin embargo, si desean honrarnos con un obsequio, lo
+    agradeceremos de todo corazón.
+  </div>
+  <div class="bank-account-icon-parent">
+    <button class="bank-account-icon" (click)="openFrame()"></button>
+    <div class="cuenta-bancaria">Cuenta Bancaria</div>
+  </div>
+</section>
+
+<portal-popup
+  *ngIf="isFrameOpen"
+  [overlayColor]="'rgba(113, 113, 113, 0.3)'"
+  [placement]="'Centered'"
+  (onOutsideClick)="closeFrame()"
+>
+  <root onClose="closeFrame()"></root>
+</portal-popup>

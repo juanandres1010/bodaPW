@@ -1,0 +1,555 @@
+.transaparente-2-icon {
+  width: 1366px;
+  height: 631px;
+  position: absolute;
+  margin: 0 !important;
+  top: 648px;
+  left: -489px;
+  object-fit: cover;
+}
+.pngwingcom-7-2,
+.pngwingcom-7-3 {
+  width: 129px;
+  height: 226px;
+  top: 484px;
+  object-fit: contain;
+  z-index: 2;
+}
+.pngwingcom-7-2 {
+  position: absolute;
+  margin: 0 !important;
+  right: -64px;
+}
+.pngwingcom-7-3 {
+  left: -65px;
+}
+.guest-name,
+.pngwingcom-7-3,
+.pngwingcom-7-7 {
+  position: absolute;
+  margin: 0 !important;
+}
+.pngwingcom-7-7 {
+  width: 101px;
+  height: 178px;
+  top: 1972px;
+  left: -46px;
+  object-fit: contain;
+}
+.guest-name {
+  width: calc(100% + 1px);
+  height: 60px;
+  top: 803px;
+  left: 0;
+  font-size: 64px;
+  font-family: var(--font-glosaw01-headlinebold);
+  display: inline-block;
+}
+.con-la-bendicion {
+  margin: 0;
+}
+.con-la-bendicion-container {
+  top: 1136px;
+  font-size: inherit;
+  line-height: 23px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.ceremonia-civil-y,
+.con-la-bendicion-container,
+.juan-rene-limachi {
+  width: calc(100% + 1px);
+  position: absolute;
+  margin: 0 !important;
+  left: 0;
+  display: inline-block;
+}
+.ceremonia-civil-y {
+  height: 54px;
+  top: 1545px;
+  font-size: inherit;
+  line-height: 23px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.juan-rene-limachi {
+  top: 1282px;
+  font-size: var(--font-size-base);
+  line-height: 15px;
+  font-family: var(--font-throhandw01-inkitalic);
+  color: var(--color-black);
+  z-index: 1;
+}
+.frame-child {
+  align-self: stretch;
+  width: 412px;
+  position: relative;
+  background-color: var(--color-brown-100);
+  display: none;
+  max-width: 100%;
+}
+.flores-y-rosas-2949-1-icon {
+  height: 265px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-parent {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 2421px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-brown-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.details,
+.details1,
+.details2,
+.details3,
+.details4,
+.details5,
+.details6 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 1621px;
+  left: 202px;
+  border-radius: 50%;
+  background-color: var(--color-brown-100);
+  z-index: 2;
+}
+.details1,
+.details2,
+.details3,
+.details4,
+.details5,
+.details6 {
+  bottom: 1532px;
+}
+.details2,
+.details3,
+.details4,
+.details5,
+.details6 {
+  bottom: 1241px;
+}
+.details3,
+.details4,
+.details5,
+.details6 {
+  bottom: 1150px;
+}
+.details4,
+.details5,
+.details6 {
+  bottom: 943px;
+}
+.details5,
+.details6 {
+  bottom: 1057px;
+}
+.details6 {
+  bottom: 1436px;
+}
+.frame-item,
+.waldo-y-durby-container {
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-item {
+  margin-top: -587px;
+  margin-left: -778px;
+  height: 3113px;
+  width: 414px;
+  flex-shrink: 0;
+}
+.waldo-y-durby-container {
+  margin: 0;
+  flex: 1;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 0.5px 0 0#79283b, 0 0.5px 0#79283b, -0.5px 0 0#79283b,
+    0-0.5px 0#79283b;
+}
+.couple-name {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) 16px var(--padding-32xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: var(--color-brown-100);
+  font-family: var(--font-ametrine);
+}
+.uno-solo-puede {
+  z-index: 3;
+}
+.eclesiasts-412,
+.uno-solo-puede {
+  flex: 1;
+  position: relative;
+}
+.source {
+  align-self: stretch;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 91px 0 100px;
+  box-sizing: border-box;
+  font-size: 21px;
+}
+.uno-solo-puede-ser-vencido-pe-parent {
+  align-self: stretch;
+  width: 306px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.bible-verse {
+  align-self: stretch;
+  height: 146px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-6xl) var(--padding-11xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+.date-time-shapes,
+.sbado {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.date-time-shapes {
+  height: 1px;
+  background-color: var(--color-black);
+}
+.sbado {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.day-time {
+  width: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.pm {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  z-index: 1;
+}
+.date-time,
+.enero {
+  position: absolute;
+  top: 0;
+}
+.date-time {
+  left: 53px;
+  width: 305px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.enero {
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.month-year-shapes,
+.month-year-shapes1 {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  background-color: var(--color-black);
+  width: 108px;
+  height: 1px;
+  z-index: 2;
+}
+.month-year-shapes1 {
+  left: 53px;
+}
+.month-year {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  width: 100%;
+  height: 21px;
+  font-size: 15px;
+  color: var(--color-black);
+  font-family: var(--font-belleza);
+}
+.date-details {
+  height: 52px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.date-details-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) 9px var(--padding-32xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pngwingcom-7-4 {
+  height: 91px;
+  width: 172px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwingcom-7-4-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-6xl) 13px var(--padding-xl);
+}
+.con-respeto {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 23px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.aunque-apreciamos-a-container {
+  height: 92px;
+  position: relative;
+  display: inline-block;
+}
+.kids-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-13xl);
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+.kids-details,
+.kids-details-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.kids-details {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.kids-details-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) 0 var(--padding-32xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-brown-100);
+  font-family: var(--font-bela-yasmine);
+}
+.con-cario-waldo,
+.estamos-emocionados-de {
+  align-self: stretch;
+  position: relative;
+}
+.con-cario-waldo {
+  margin: 0;
+  height: 31px;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0.1px 0 0#000, 0 0.1px 0#000, -0.1px 0 0#000, 0-0.1px 0#000;
+}
+.closing-message-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  max-width: 100%;
+}
+.closing-message {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-13xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+.closing-message,
+.gratitude,
+.gratitude-message {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.gratitude-message {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.gratitude {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) 0 var(--padding-32xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 36px;
+  color: var(--color-brown-100);
+  font-family: var(--font-bela-yasmine);
+}
+.couple-name-parent,
+.vector-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.couple-name-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 18px;
+  min-width: 519px;
+  flex-shrink: 0;
+  max-width: 126%;
+}
+.vector-parent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 522px 0 0;
+  box-sizing: border-box;
+  gap: 313px;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-calibri);
+}
+.details7 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 1340px;
+  left: 202px;
+  border-radius: 50%;
+  background-color: var(--color-brown-100);
+  z-index: 2;
+}
+.foto-fin-1-icon {
+  height: 631px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.gatitos-1-icon {
+  height: 142px;
+  width: 232px;
+  position: absolute;
+  margin: 0 !important;
+  right: 535px;
+  bottom: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.android-medium-1,
+.final-image {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.final-image {
+  margin-right: -453px;
+  width: 1366px;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 332%;
+}
+.android-medium-1 {
+  width: 100%;
+  background-color: snow;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-brown-100);
+  font-family: var(--font-bela-yasmine);
+}
+@media screen and (max-width: 391px) {
+  .couple-name-parent,
+  .frame-item {
+    flex: 1;
+  }
+  .vector-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 382px) {
+  .couple-name-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 306px) {
+  .source {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

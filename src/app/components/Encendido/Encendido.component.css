@@ -1,0 +1,32 @@
+.map-icon,
+.ver-mapa {
+  position: absolute;
+  left: 0;
+}
+.map-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-brown-100);
+  cursor: pointer;
+}
+.ver-mapa {
+  top: 13px;
+  display: inline-block;
+  width: 192px;
+  height: 26px;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+  z-index: 1;
+}
+.encendido {
+  height: 48px;
+  flex: 1;
+  position: relative;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-throhandw01-inkitalic);
+}

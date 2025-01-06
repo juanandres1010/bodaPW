@@ -1,0 +1,98 @@
+.r-s-v-p-message-child {
+  height: 82.7px;
+  width: 63px;
+  position: relative;
+}
+.r-s-v-p-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+}
+.confirma-tu-asistencia {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 23px;
+  font-weight: 400;
+  font-family: var(--font-bela-yasmine);
+}
+.por-favor-confirmar {
+  margin: 0;
+}
+.por-favor-confirmar-container {
+  position: relative;
+}
+.r-s-v-p-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-13xl);
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.r-s-v-p-button-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-brown-100);
+  position: absolute;
+  top: 0;
+  left: 113px;
+  border-radius: var(--br-xl);
+  width: 191px;
+  height: 48px;
+  z-index: 1;
+}
+.confirmar {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  display: inline-block;
+  width: 413px;
+  height: 26px;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+  z-index: 2;
+}
+.r-s-v-p-button-icon-parent {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.r-s-v-p,
+.r-s-v-p-details {
+  display: flex;
+  max-width: 100%;
+}
+.r-s-v-p-details {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-sm-2);
+}
+.r-s-v-p {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-37xl) var(--padding-63xl) var(--padding-32xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-brown-100);
+  font-family: var(--font-throhandw01-inkitalic);
+}
+@media screen and (max-width: 353px) {
+  .r-s-v-p {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
