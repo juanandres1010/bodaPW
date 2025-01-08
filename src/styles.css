@@ -1,1 +1,39 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: 'Ametrine';
+    src: url('/assets/fonts/Ametrine.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'throhand';
+    src: url('/assets/fonts/ThrohandW01InkItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bela';
+    src: url('/assets/fonts/fonnts.com-BelaYasmine-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@media screen and (max-width: 768px) {
+    html, body {
+        overflow-x: hidden !important;
+    }
+}
+/* Importing Bootstrap SCSS file. */
+/* @import 'bootstrap/css/bootstrap'; */
